@@ -1,0 +1,24 @@
+.container{
+.div-form{
+  margin: 0 auto;
+  max-width: 500px;
+}
+.main-info{
+    color: white;
+    margin: 0 auto;
+    max-width: 500px;
+    .div-city{
+    }
+    .div-info-bottom{
+      .div-temps{
+        margin-top: 50px;
+        border: solid 0px black ;
+        background-color: rgba(0, 0, 0, 0.222);
+        border-radius: 20px;
+        font-weight: 900;
+        display: flex;
+        justify-content: space-around;
+      }
+    }
+}
+}
